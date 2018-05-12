@@ -1,0 +1,31 @@
+_repo: Vida-de-Takla-Haymanot_28692
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Almeida, Manuel de
+    birthdate: 1580
+    deathdate: 1646
+    gutenberg_agent_id: '33489'
+    url: http://www.gutenberg.org/2009/agents/33489
+  - agent_name: Pereira, F. M. Esteves
+    alias: Pereira, Francisco Maria Esteves
+    gutenberg_agent_id: '33488'
+    url: http://www.gutenberg.org/2009/agents/33488
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2009-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28692'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Takla Haymanot, Saint'
+title: Vida de Takla Haymanot
+url: http://www.gutenberg.org/ebooks/28692
